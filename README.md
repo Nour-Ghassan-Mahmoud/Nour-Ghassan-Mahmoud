@@ -20,7 +20,7 @@ I am interested in developing reliable metal AM processes and understanding how 
 ### Metal Powder Characterization for Additive Manufacturing
 Individually prepared practical report covering metallic powder feedstock characterization and assessment, including SEM/EDS, XRD, particle-size distribution, flowability, and powder packing.
 
-[View my engineering portfolio](https://github.com/Nour-Ghassan-Mahmoud-Ghassan/Nour-Mahmoud) · [Connect on LinkedIn](https://www.linkedin.com/in/nourmd)
+[View my engineering portfolio](https://github.com/Nour-Ghassan-Mahmoud-Ghassan/Nour-Mahmoud-Engineering-Portfolio) · [Connect on LinkedIn](https://www.linkedin.com/in/nourmd)
 
 ## Current Research
 
